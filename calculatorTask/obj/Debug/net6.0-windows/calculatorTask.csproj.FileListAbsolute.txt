@@ -1,0 +1,17 @@
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\bin\Debug\net6.0-windows\calculatorTask.exe
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\bin\Debug\net6.0-windows\calculatorTask.deps.json
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\bin\Debug\net6.0-windows\calculatorTask.runtimeconfig.json
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\bin\Debug\net6.0-windows\calculatorTask.dll
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\bin\Debug\net6.0-windows\calculatorTask.pdb
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.csproj.AssemblyReference.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.Form1.resources
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.csproj.GenerateResource.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.AssemblyInfoInputs.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.AssemblyInfo.cs
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.csproj.CoreCompileInputs.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.dll
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\refint\calculatorTask.dll
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.pdb
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\calculatorTask.genruntimeconfig.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net6.0-windows\ref\calculatorTask.dll

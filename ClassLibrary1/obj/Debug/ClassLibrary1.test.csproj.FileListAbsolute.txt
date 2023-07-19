@@ -1,0 +1,3 @@
+C:\Users\peace\Desktop\week-5-task\calculatorTask\ClassLibrary1\obj\Debug\ClassLibrary1.test.csproj.AssemblyReference.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\ClassLibrary1\obj\Debug\ClassLibrary1.test.csproj.SuggestedBindingRedirects.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\ClassLibrary1\obj\Debug\ClassLibrary1.test.csproj.CoreCompileInputs.cache

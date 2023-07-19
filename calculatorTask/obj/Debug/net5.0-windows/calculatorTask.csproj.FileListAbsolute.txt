@@ -1,0 +1,7 @@
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net5.0-windows\calculatorTask.csproj.AssemblyReference.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net5.0-windows\calculatorTask.Form1.resources
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net5.0-windows\calculatorTask.csproj.GenerateResource.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net5.0-windows\calculatorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net5.0-windows\calculatorTask.AssemblyInfoInputs.cache
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net5.0-windows\calculatorTask.AssemblyInfo.cs
+C:\Users\peace\Desktop\week-5-task\calculatorTask\calculatorTask\obj\Debug\net5.0-windows\calculatorTask.csproj.CoreCompileInputs.cache

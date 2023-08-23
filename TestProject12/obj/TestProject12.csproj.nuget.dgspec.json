@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj": {}
+    "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj": {
+    "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj",
+        "projectUniqueName": "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj",
         "projectName": "calculatorTask",
-        "projectPath": "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj",
+        "projectPath": "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj",
         "packagesPath": "C:\\Users\\peace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\calculatorTask\\obj\\",
+        "outputPath": "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\calculatorTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj": {
+    "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj",
+        "projectUniqueName": "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj",
         "projectName": "TestProject12",
-        "projectPath": "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj",
+        "projectPath": "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj",
         "packagesPath": "C:\\Users\\peace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\TestProject12\\obj\\",
+        "outputPath": "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\TestProject12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj": {
-                "projectPath": "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj"
+              "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj": {
+                "projectPath": "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\calculatorTask\\calculatorTask.csproj"
               }
             }
           }

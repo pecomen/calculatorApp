@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t7xeGm1XMY+vA6Dmggf6aEqqkDUeRYzyLwl11WxyKm6voEPU5ZBK5YkUKO3gtxMVWksYs7Ua0Nd2CA5Ox+8NiQ==",
+  "dgSpecHash": "rxzMAFOb1MhOPYnfGQD6JjrjYVOET8gIRhixireuLvAHHaPY/Cd9cA7m2Dqb5TDj1pxyCUuk6BDjw3QD5hgGEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peace\\Desktop\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj",
+  "projectFilePath": "C:\\Users\\peace\\Desktop\\decagon 16\\week-5-task\\calculatorTask\\TestProject12\\TestProject12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peace\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\peace\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
